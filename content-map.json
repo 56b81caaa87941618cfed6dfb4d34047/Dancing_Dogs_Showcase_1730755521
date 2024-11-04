@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "Pawsome Moves",
+        "HERO_HEADING_TEXT": "Unleash the Rhythm: Where Dogs Dance!",
+        "HERO_SUBHEADING_TEXT": "Discover the joy of canine choreography and watch tails wag to the beat",
+        "FOOTER_TEXT": "\u00a9 2023 Pawsome Moves. All rights reserved. Keep those paws tapping!"
+    }
+}
